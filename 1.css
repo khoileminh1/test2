@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top1 {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 667px;
+}
+
+.btn-default {
+    width: 152px;
+    height: 47px;
+    padding-top: 12px;
+}
+
+.top1 .giua1 {
+    padding-top: 270px;
+}
+
+.top2 {
+    width: 100%;
+    height: 260px;
+}
+
+.top2 .giua2 {
+    padding-top: 70px;
+}
+
+.xanh {
+    height: 459px;
+    background-color: #337ab7;
+    color: white;
+}
+
+.ngan {
+    width: 100px;
+    color: white;
+    margin: auto;
+}
+
+.xanhtop {
+    padding: 50px 0 30px 0;
+}
+
+.btn {
+    background-color: white;
+    border-radius: 0;
+}
+
+.btn-light:hover {
+    background-color: #e6e6e6;
+}
+.nenanh{
+    background-image: url(bg.jpg);
+    height: 400px;
+}
+.nenanh .text{
+    padding-top: 160px;
+}
+.nentrang{
+    height: 898px;
+}
+.xanh2{
+    height: 222px;
+    background-color: #337ab7;
+}
+.xanh2 .giua22{
+    padding-top: 45px;
+    color: white;
+}
+.nentrang .nentranglist .img-responsive {
+    margin-bottom: 35px;
+}
+.end1 {
+    padding-top: 50px;
+}
+.end .chubot{
+    list-style: none;
+}
+.end .fa-facebook:before{
+    margin: 10px;
+    text-decoration: none;
+}
